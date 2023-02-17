@@ -1,6 +1,8 @@
 #include <iostream>
-// "#include" allows us to call libraries that we may use in our code
-// iostream is a library that allows us to recieve or display data
+/* "#include" allows us to call libraries that we may use in our code
+ iostream is a library that allows us to recieve or display data
+ this library is responsible for the input and output of data into the program (input output stream)
+*/
 
 using namespace std;
 // "namespace" gives us permission to give names to variables, functions an other pieces of code and reuse them without specifying from where we're importing them
@@ -14,3 +16,9 @@ int main() {
 }
 // "main" function is the entry point of our program. Signals the computer where the program is going to start, because is the first piece of code to be executed. 
 
+
+// this is a single line comment
+
+/*
+    this is a multiple line comment
+*/
